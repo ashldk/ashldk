@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <code style="color:#FFFFFF;">:</code>
   <code style="color:#6A5ACD;">~</code>
   <code style="color:#FFFFFF;">$</code>
-  <code style="color:#FFFFFF;">random-quote</code>
+  <code style="color:#FFFFFF;">tech-quote</code>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
